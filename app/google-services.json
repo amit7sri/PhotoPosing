@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031219940855",
+    "firebase_url": "https://photoposing-165504.firebaseio.com",
+    "project_id": "photoposing-165504",
+    "storage_bucket": "photoposing-165504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031219940855:android:640c696e1a4de5d1",
+        "android_client_info": {
+          "package_name": "photoposing.com.amko0l.photoposing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031219940855-6i388qccm09nof2ne1iueuejvgvq8dbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "photoposing.com.amko0l.photoposing",
+            "certificate_hash": "d9c2d69aa49c362af70991a3451d7c1ce079a36c"
+          }
+        },
+        {
+          "client_id": "1031219940855-vbpm0rnm6kl6h7qufktco1mc7ljokals.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUUuxIxiPQKFSuCVbynVAbpu9yEO1UCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031219940855-vbpm0rnm6kl6h7qufktco1mc7ljokals.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
