@@ -1,5 +1,5 @@
 # PhotoPosing
-An android application that takes user photo at tourist destination and recommend popular photo poses of that destination using vision APIs and stores user photos to Firebase database for future suggestions.
+An android application that takes user photo at tourist destination and recommend popular photo poses of that destination using vision APIs and stores user photos to Firebase database for future suggestions. The app also gives the path to that location by using google maps.
 
 This project is hosted on Google cloud Platform in order to use it please change the credential and server address.
 
@@ -16,5 +16,5 @@ How to check?
 	1) Uplaod a photo with landmark and user.
 	2) The App Engine will detect face expression, landmark and suggest similar images.
 	3) The image is saved to firebase storage and added to firebase database.
-	4) Android app will show a) Images suggested by our database, b) images suggested by google, c) face expression, d) map to the detected landmark
+	4) Android app will show a) Images suggested by our database, b) images suggested by google, c) face expression, d) map to the detected landmark.
 
